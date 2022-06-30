@@ -62,5 +62,31 @@ public class Solution {
 
 /**
  *                  Hacker Rank Prob 03 : 2022 06 30
+ *
+ *                  https://www.baeldung.com/java-printstream-printf
  */
+import java.util.Scanner;
+
+public class Solution {
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.println("================================");
+
+        for(int i=0; i<3; i++){
+            String s1 = sc.next();
+            System.out.printf("%-15s", s1);
+
+            int x = sc.nextInt();
+            System.out.printf("%03d %n", x);
+
+        }
+        System.out.println("================================");
+
+    }
+
+}
+
 
