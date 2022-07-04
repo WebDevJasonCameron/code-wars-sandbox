@@ -1,6 +1,5 @@
 /**
  *                  Hacker Rank Prob 01 : 2022 07 03
-*/
 
 import java.io.*;
 import java.math.*;
@@ -26,3 +25,5 @@ public class Solution {
         bufferedReader.close();
     }
 }
+
+ */
