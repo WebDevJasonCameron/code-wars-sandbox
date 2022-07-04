@@ -64,7 +64,7 @@ public class Solution {
  *                  Hacker Rank Prob 03 : 2022 06 30
  *
  *                  https://www.baeldung.com/java-printstream-printf
- */
+
 import java.util.Scanner;
 
 public class Solution {
@@ -88,5 +88,5 @@ public class Solution {
     }
 
 }
-
+ */
 
