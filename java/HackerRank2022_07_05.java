@@ -1,6 +1,6 @@
 /**
  *                  Hacker Rank Prob 01 : 2022 07 05
- *
+
  *                  Java has 8 primitive data types; char, boolean, byte, short,
  *                  int, long, float, and double. For this exercise, we'll work
  *                  with the primitives used to hold integer values (byte, short,
@@ -15,7 +15,7 @@
  *                  of properly storing that input.
  *
  *              To get you started, a portion of the solution is provided for you in the editor.
- */
+
 import java.util.*;
 import java.io.*;
 
@@ -51,4 +51,27 @@ class Solution{
         }
     }
 }
+ */
 
+
+/**
+ *                  Hacker Rank Prob 01 : 2022 07 05
+ */
+
+ import java.io.*;
+ import java.util.*;
+ import java.text.*;
+ import java.math.*;
+ import java.util.regex.*;
+
+ public class Solution {
+
+ public static void main(String[] args) {
+ /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+
+
+
+
+
+    }
+            }
